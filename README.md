@@ -2,6 +2,8 @@
 
 Shareasy consiste em uma plataforma de doações para causas sociais a partir de propagandas e contribuições de usuários e empresas.
 
+[Link de repositório de documentos](https://drive.google.com/drive/folders/1wkygfQr33zUiZj6VX2JsDHAZ8yF31VK_?usp=sharing)
+
 ### Usuários:
 Na plataforma, usuários podem fazer doações por meio de doações diretas (contribuindo com dinheiro próprio) ou indiretas (assistindo propagandas para que o valor obtido seja convertido).
 

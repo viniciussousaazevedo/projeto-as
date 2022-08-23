@@ -13,9 +13,6 @@ Empresas também podem contribuir oferecendo serviços, produtos e participaçõ
 ### A moeda - Dotsz:
 Ao realizar suas contribuições, usuários adquirem quantias da moeda virtual do aplicativo - o Dotsz. A partir disso, empresas participantes podem oferecer seus benefícios pelo valor simbólico dos Dotsz acumulados pelos usuários.
 
-### Ranking:
-Quanto mais um usuário ou empresa participa, mais ele sobe no ranking de contribuintes, ganhando selos de participação nos quais podem utilizar para seus diversos fins.
-
 ### As causas:
 Focamos em contribuir para as causas mais diversas que afetam negativamente a realidade brasileira, tais como:
 1. Erradicação da pobreza
